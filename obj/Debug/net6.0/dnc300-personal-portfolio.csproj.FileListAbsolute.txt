@@ -24,3 +24,6 @@ C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\obj\Debug
 C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\obj\Debug\net6.0\ref\dnc300-personal-portfolio.dll
 C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\obj\Debug\net6.0\dnc300-personal-portfolio.pdb
 C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\obj\Debug\net6.0\dnc300-personal-portfolio.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\bin\Debug\net6.0\MailChimp.Net.dll
+C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Documents\apprentice\dnc300-personal-portfolio\obj\Debug\net6.0\dnc300-personal-portfolio.csproj.CopyComplete
